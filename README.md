@@ -14,3 +14,6 @@ Chat better extending Google Chat with essential features such as thread linking
 - Improve UI reducing white space
 
 ![image](https://user-images.githubusercontent.com/17554234/118884145-77579600-b8cc-11eb-92aa-4deb3c2e061c.png)
+
+## Credits
+- Orginally a fork of [upman/gchat-copy](https://github.com/upman/gchat-copy)
