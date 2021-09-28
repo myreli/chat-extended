@@ -8,5 +8,5 @@
 // @match        https://mail.google.com/chat*
 // @icon         https://www.google.com/s2/favicons?domain=chat.google.com
 // @source       https://myreli.dev/chat-extended
-// @require      https://raw.githubusercontent.com/myreli/chat-extended/v1.0.1/script.min.js
+// @require      https://raw.githubusercontent.com/myreli/chat-extended/v1.0.2/script.min.js
 // ==/UserScript==
